@@ -1,0 +1,6 @@
+security:
+  oauth2:
+    resource:
+      userInfoUri: http://localhost:9003/validateUser
+server:
+  port: 9004
